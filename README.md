@@ -1,5 +1,5 @@
-# docker-loopback-react
-Starter for react-loopback app running on docker
+# Loopback-MySQL starter App
+Starter for a loopback-mysql app running on docker
 
 In the ```api``` directory, create a new ```.env``` file with the following:
 
