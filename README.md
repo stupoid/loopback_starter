@@ -22,7 +22,7 @@ $ docker-compose run api yarn
 docker-compose run api yarn add loopback-connector-mysql
 ```
 
-Add the lines following to ```api/server/datasources.json```:
+Add the following lines following to ```api/server/datasources.json```:
 ```
 {
   "db": {
