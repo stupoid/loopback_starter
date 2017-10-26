@@ -1,5 +1,5 @@
 # Loopback-MySQL starter App
-Starter for a loopback-mysql app running on docker
+Starter for a loopback-mysql app running on a docker container
 
 In the ```api``` directory, create a new ```.env``` file with the following:
 
